@@ -1,9 +1,9 @@
-#Processus du lancement et d'utilisation de l'application
+# Processus du lancement et d'utilisation de l'application
 
-##Prérequis
+## Prérequis
  - installer R & RStudio
  
-##Package à installer
+## Package à installer
   - dplyr
   - DT
   - ggplot2

@@ -21,4 +21,4 @@
   - Selectionner la donnée à mettre en y
   - choisir le type de digramme (par défaut c'est point)
   - choisir d'affichier une courbe de regression (par défaut c'est none)
-  
+  - Vous pouvez aussi télécharger le digramme en cliquant sur 'download plot'
